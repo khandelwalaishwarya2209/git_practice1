@@ -1,4 +1,8 @@
 body {
-    background-image: url("images\background.jpeg");
-    background-color: white;
+
+    background-image: url("images/bg1.jpg");
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
